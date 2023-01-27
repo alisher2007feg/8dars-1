@@ -1,0 +1,19 @@
+body{
+    background: gray;
+    width: 1200px;
+    margin: 0 auto;
+}
+.h12{
+    display: flex;
+    justify-content: center;
+    
+}
+.form{
+    text-align: center;
+    margin: 10px;
+    gap: 10px;
+}
+
+.form input{
+    margin: 10px;
+}
